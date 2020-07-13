@@ -1,3 +1,3 @@
 # full-stack-app
 
-Full stack app with Node.js, React, and MongoDB
+Full stack app with Node.js, Express.js, React, and MongoDB
