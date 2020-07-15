@@ -3,7 +3,7 @@ import Header from './Header';
 
 class App extends React.Component {
   state = {
-    pageHeader: 'Naming Contests'
+    pageHeader: 'Naming Contests25'
   };
   render() {
     return (
